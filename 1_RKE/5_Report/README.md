@@ -58,6 +58,25 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 * The key fob doesnot work consistently.
 * There may be chance of hacking.
 
+
+# 4W's And 1H
+
+![image](https://user-images.githubusercontent.com/87614111/157808679-4d4b7b7f-e078-4ef9-a8d4-a9117bcc981f.png)
+
+# WHAT
+ A Remote keyless system controls the vehicle without using a traditional mechanical key.We can remotely access a car.
+ # WHY
+ RKE Systems are used for locking and unlocking a vehicle's doors by controlling the remote.
+ # WHERE
+ It is used for car owners where they can make the task self without unecesserly inserting the key.
+ # WHEN
+ It is used for cars as there is a chance of thefts.This can be used for locking and locking of doors of a car.
+ # WHO
+ RKE Systems are used by car users which are developed by automative engineers.So they must offer low cost and high reliability.
+ # HOW
+ There are functions on a key knob which are used for automatic door locking and unlocking for a car.
+
+
 # Architecture
 
 ## High Level Behavioral Diagram
