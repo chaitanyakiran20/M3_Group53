@@ -22,5 +22,9 @@
 | LL_3 | Activate/Deactivate Alarm | Switch Button Press Thrice     | LED TURNED ON IN CLOCKWISE     |
 | LL_4 | Activate Approach Light   | Switch Button Press Four Times | LED TURNED ON IN ANTICLOCKWISE |
 
+
 ## Swot Analysis
+
+![ARM PROJ SWOT](https://user-images.githubusercontent.com/34639178/157854448-0f14744b-cf72-4d71-9beb-51d7af61af0e.JPG)
+
 
